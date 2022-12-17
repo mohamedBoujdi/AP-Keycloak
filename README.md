@@ -1,4 +1,3 @@
-<h1 align="center">🌛 سبحان الله وبحمده، والحمد لله، ولا إله إلا الله، والله أكبر 🌜</h1>
 <h1 align="center">Mohamed ELYOUSFI</h1>
 <h2 align="center"><💻 Sécurité des micro services avec Keycloak💻/></h2><br><br>
 
