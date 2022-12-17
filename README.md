@@ -60,55 +60,55 @@
     <summary style="cursor:pointer">Partie 2 (cliquez  🖱) <a href="https://github.com/ElyousfiMohamed/Mise-en-oeuvre-d-une-architecture-MS---consul"> [Code source]</a></summary>
     <p>
     <h6 style="margin-left: 20px">Sécuriser L'architecture Micro services du projet Customer-service, Inventory-service et Order-service</h6>
-    <details style="margin-left: 20px">
-        <summary style="cursor:pointer">Customer-service (cliquez  🖱)</summary>
-        <p>
-        <h5>1. Ajouter les dépendances</h5>
-        <img src="./Images/Screenshot_32.png" alt="Screenshot_32" width="700">
-        <h5>2. Modifier le fichier de configuration</h5>
-        <img src="./Images/Screenshot_33.png" alt="Screenshot_33" width="700">
-        <img src="./Images/Screenshot_34.png" alt="Screenshot_34" width="700">
-        <h5>3. Creation des fichiers de configuration</h5>
-        <img src="./Images/Screenshot_35.png" alt="Screenshot_35" width="700">
-        <img src="./Images/Screenshot_36.png" alt="Screenshot_36" width="700">
-        <h5>4. Test accés h2-console</h5>
-        <img src="./Images/Screenshot_37.png" alt="Screenshot_37" width="700">
-        <img src="./Images/Screenshot_38.png" alt="Screenshot_38" width="700">
-        <h5>5. Test accés à la ressource</h5>
-        <img src="./Images/Screenshot_39.png" alt="Screenshot_39" width="700">
-        <img src="./Images/Screenshot_40.png" alt="Screenshot_40" width="700">
-        </p>
-    </details>
-    <details style="margin-left: 20px">
-        <summary style="cursor:pointer">Inventory-service (cliquez  🖱)</summary>
-        <p>
-        <h5>1. Ajouter les dépendances</h5>
-        <img src="./Images/Screenshot_41.png" alt="Screenshot_41" width="700">
-        <h5>2. Creation des fichiers de configuration</h5>
-        <img src="./Images/Screenshot_42.png" alt="Screenshot_42" width="700">
-        <img src="./Images/Screenshot_43.png" alt="Screenshot_43" width="700">
-        <h5>3. Test accés /products</h5>
-        <img src="./Images/Screenshot_44.png" alt="Screenshot_44" width="700">
-        <img src="./Images/Screenshot_47.png" alt="Screenshot_47" width="700">
-        <img src="./Images/Screenshot_48.png" alt="Screenshot_48" width="700">
-        </p>
-    </details>
-    <details style="margin-left: 20px">
-        <summary style="cursor:pointer">Order-service (cliquez  🖱)</summary>
-        <p>
-        <h5>1. Ajouter les dépendances</h5>
-        <img src="./Images/Screenshot_49.png" alt="Screenshot_49" width="700">
-        <h5>2. Creation des fichiers de configuration</h5>
-        <img src="./Images/Screenshot_50.png" alt="Screenshot_50" width="700">
-        <img src="./Images/Screenshot_51.png" alt="Screenshot_51" width="700">
-        <h5>3. Test accés /orders</h5>
-        <img src="./Images/Screenshot_52.png" alt="Screenshot_52" width="700">
-        <img src="./Images/Screenshot_53.png" alt="Screenshot_53" width="700">
-        </p>
-    </details>
-    <details style="margin-left: 20px">
-        <summary style="cursor:pointer">Sécurisé le frontend (En cours)</summary>
-        <p></p>
-    </details>
+        <details style="margin-left: 20px">
+            <summary style="cursor:pointer">Customer-service (cliquez  🖱)</summary>
+            <p>
+            <h5>1. Ajouter les dépendances</h5>
+            <img src="./Images/Screenshot_32.png" alt="Screenshot_32" width="700">
+            <h5>2. Modifier le fichier de configuration</h5>
+            <img src="./Images/Screenshot_33.png" alt="Screenshot_33" width="700">
+            <img src="./Images/Screenshot_34.png" alt="Screenshot_34" width="700">
+            <h5>3. Creation des fichiers de configuration</h5>
+            <img src="./Images/Screenshot_35.png" alt="Screenshot_35" width="700">
+            <img src="./Images/Screenshot_36.png" alt="Screenshot_36" width="700">
+            <h5>4. Test accés h2-console</h5>
+            <img src="./Images/Screenshot_37.png" alt="Screenshot_37" width="700">
+            <img src="./Images/Screenshot_38.png" alt="Screenshot_38" width="700">
+            <h5>5. Test accés à la ressource</h5>
+            <img src="./Images/Screenshot_39.png" alt="Screenshot_39" width="700">
+            <img src="./Images/Screenshot_40.png" alt="Screenshot_40" width="700">
+            </p>
+        </details>
+        <details style="margin-left: 20px">
+            <summary style="cursor:pointer">Inventory-service (cliquez  🖱)</summary>
+            <p>
+            <h5>1. Ajouter les dépendances</h5>
+            <img src="./Images/Screenshot_41.png" alt="Screenshot_41" width="700">
+            <h5>2. Creation des fichiers de configuration</h5>
+            <img src="./Images/Screenshot_42.png" alt="Screenshot_42" width="700">
+            <img src="./Images/Screenshot_43.png" alt="Screenshot_43" width="700">
+            <h5>3. Test accés /products</h5>
+            <img src="./Images/Screenshot_44.png" alt="Screenshot_44" width="700">
+            <img src="./Images/Screenshot_47.png" alt="Screenshot_47" width="700">
+            <img src="./Images/Screenshot_48.png" alt="Screenshot_48" width="700">
+            </p>
+        </details>
+        <details style="margin-left: 20px">
+            <summary style="cursor:pointer">Order-service (cliquez  🖱)</summary>
+            <p>
+            <h5>1. Ajouter les dépendances</h5>
+            <img src="./Images/Screenshot_49.png" alt="Screenshot_49" width="700">
+            <h5>2. Creation des fichiers de configuration</h5>
+            <img src="./Images/Screenshot_50.png" alt="Screenshot_50" width="700">
+            <img src="./Images/Screenshot_51.png" alt="Screenshot_51" width="700">
+            <h5>3. Test accés /orders</h5>
+            <img src="./Images/Screenshot_52.png" alt="Screenshot_52" width="700">
+            <img src="./Images/Screenshot_53.png" alt="Screenshot_53" width="700">
+            </p>
+        </details>
+        <details style="margin-left: 20px">
+            <summary style="cursor:pointer">Sécurisé le frontend (En cours)</summary>
+            <p></p>
+        </details>
     </p>
 </details>
